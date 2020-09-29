@@ -4,4 +4,5 @@ do
 done << fileName
 
 
-
+### Giving you the input to the curl
+## TODO include curl commmand here
